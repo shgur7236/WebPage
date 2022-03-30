@@ -9,18 +9,22 @@
 }
 
 #header-wrap{
+    width: 100%;
     background-color: aliceblue;
 }
 
 #banner-wrap{
+    width: 100%;
     background-color: antiquewhite;
 }
 
 #contents-wrap{
+    width: 100%;
     background-color: aqua;
 }
 
 #footer-wrap{
+    width: 100%;
     background-color: aquamarine;
 }
 #header-container{
